@@ -169,7 +169,7 @@ body {
     /* position: relative; 
     max-width: 700px; */
     position: absolute;
-    top: 105px; /* Jarak 50px dari atas elemen induk */
+    top: 110px; /* Jarak 50px dari atas elemen induk */
     right: 650px;
     max-width: 700px;
 }
@@ -1395,6 +1395,7 @@ body {
     opacity: 1;
 
 }
+
 
 
 
